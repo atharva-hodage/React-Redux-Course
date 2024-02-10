@@ -1,0 +1,27 @@
+/* Style for the PostList component */
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+article {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+h3 {
+  margin-bottom: 5px;
+}
+
+p {
+  color: #555;
+}
